@@ -1,0 +1,3 @@
+[server]
+[server.runtime]
+python_version = "3.12"
