@@ -50,7 +50,7 @@ if uploaded_file is not None:
                 "compare",
                 "--history", "temp_upload.csv",
                 "--new-file", "temp_upload.csv",
-                "--model-path", "./bge-m3",
+                "--model-path", "BAAI/bge-m3",
                 "--threshold", str(threshold),  # 应用侧边栏的阈值
                 "--output", str(RESULT_DIR)
             ]
