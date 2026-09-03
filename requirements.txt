@@ -1,3 +1,15 @@
 streamlit
 pandas
+numpy
+scipy
+scikit-learn
+jieba
+wordcloud
 openpyxl
+huggingface_hub
+FlagEmbedding
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+torch
